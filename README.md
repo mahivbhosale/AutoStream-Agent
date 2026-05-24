@@ -5,9 +5,6 @@ A conversational AI agent built for **AutoStream**, a fictional SaaS platform fo
 
 ---
 
-## 🎥 Demo Video
-
-https://drive.google.com/file/d/1dv4LnN91KAkg1LklnweUlMQecRiRVauP/view?usp=sharing
 
 ---
 
