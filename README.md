@@ -1,12 +1,10 @@
 # AutoStream AI Agent
-### Social-to-Lead Agentic Workflow | ServiceHive × Inflx Assignment
+### Social-to-Lead Agentic Workflow 
 
-A conversational AI agent built for **AutoStream**, a fictional SaaS platform for automated video editing. The agent handles product queries, identifies high-intent users, and captures qualified leads — end-to-end.
-
----
-
+A conversational AI agent built for **AutoStream**, a SaaS platform for automated video editing. The agent handles product queries, identifies high-intent users, and captures qualified leads — end-to-end.
 
 ---
+
 
 ## 🚀 How to Run Locally
 
